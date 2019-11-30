@@ -12,7 +12,7 @@ For this project, we define deep earthquakes at Axial Seamount as earthquakes lo
 Axial Seamount Earthquake Catalog from Felix Waldhauser:\
 Downloaded Files:\
 [Axial Earthquake Event Catalog (Up to 2017)](https://ocean.pangeo.io/user/0000-0002-4169-7049/lab/tree/RC_Final_Project/Axial-DD.v201701.1)\
-[Phase File](https://ocean.pangeo.io/user/0000-0002-4169-7049/lab/tree/RC_Final_Project/Axial-DD.phases.v201701.1)\
+[Phase File](https://ocean.pangeo.io/user/0000-0002-4169-7049/lab/tree/RC_Final_Project/Axial-DD.phases.truncate.1)\
 Online:\
 [Axial Earthquake Recent Catalog*](https://www.ldeo.columbia.edu/~felixw/Axial/)
 
