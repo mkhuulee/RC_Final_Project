@@ -1,4 +1,3 @@
-name: RC_Final_Project
 channels:
     - conda-forge
     - defaults
