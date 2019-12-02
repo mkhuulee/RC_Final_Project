@@ -25,3 +25,6 @@ Lat/Lon Locations of the magma reservoirs from Arnulf et al. (2014, 2018)\
 
 ## Analysis
 First, I will load both the event catalog text file and the phase file, which contains the P and S-wave for each of the event and select the events that are within the timeframe and location of interest. Then I will take the S-wave and subtract the P-wave and plot these relocated depth values with the estimated depths from the catalog for comparison.This information will allow me to determine how well the velocity model used works with relocating the depth of deeper earthquake events. From that I will select the events that are deeper than 4km and plot those to look at the locations of these events and compare them to the location of previously mapped magma reservoirs locations. 
+
+## Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mkhuulee/RC_Final_Project/master)
