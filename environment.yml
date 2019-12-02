@@ -10,4 +10,3 @@ dependencies:
     - numpy         # N-d array and numerics
     - pandas        # Labeled array library
     - xarray        # N-d labeled array library
-    - mpl_toolkits  # Plotting 3D
